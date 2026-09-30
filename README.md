@@ -9,16 +9,16 @@
 
 ## Подключить к своему роутеру
 
-В splify2: **Настройки → Списки → Источник списков**, вставить ссылку:
+В splify2: **Настройки → Общие → Источник списков**, вставить ссылку:
 
 ```
-https://github.com/xyzmean/splify2-lists/releases/latest/download/lists.json
+https://github.com/autrobin/splify2-lists/releases/latest/download/lists.json
 ```
 
 Это же значение можно задать по ssh:
 
 ```sh
-uci set splify2.main.manifest_url='https://github.com/xyzmean/splify2-lists/releases/latest/download/lists.json'
+uci set splify2.main.manifest_url='https://github.com/autrobin/splify2-lists/releases/latest/download/lists.json'
 uci commit splify2
 ```
 
