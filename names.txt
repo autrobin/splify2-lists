@@ -57,3 +57,6 @@ b4geoip:ubisoft | Ubisoft
 b4geoip:valve | Valve (Steam)
 b4geoip:wargaming | Wargaming
 b4geoip:xbox | Xbox
+
+# jinndi/adguard-filter-list-srs - AdGuard фильтр
+jinndi:adguard-filter-list | AdGuard фильтр
