@@ -39,4 +39,4 @@ itdoginfo/allow-domains | itdoginfo | itdoginfo (allow-domains)
 # Наборы b4geoip проверены движком (`steer srs-read`): в них только подсети, доменов нет.
 Greeg0ry/b4geoip-forkop | b4geoip | b4geoip (игры и сервисы) | prefixes
 # Список AdGuard srs
-jinndi/adguard-filter-list-srs | jinndi | jinndi (adguard-filter)
+jinndi/adguard-filter-list-srs | jinndi | jinndi (adguard-filter) | domains
