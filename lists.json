@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-30_08-10",
-  "generated_at": "2026-09-30T08:10:55Z",
+  "version": "2026-09-30_09-13",
+  "generated_at": "2026-09-30T09:13:54Z",
   "base_url": "https://raw.githubusercontent.com/autrobin/splify2-lists/main/lists",
   "categories": [
     {
@@ -342,17 +342,6 @@
       "tag": "2026-09-30_00-04",
       "source": "Greeg0ry/b4geoip-forkop",
       "source_name": "b4geoip (игры и сервисы)",
-      "default_on": false
-    },
-    {
-      "id": "jinndi:adguard-filter-list",
-      "name_ru": "AdGuard фильтр",
-      "file": "jinndi/adguard-filter-list.srs.lst",
-      "format": "srs",
-      "url": "https://github.com/jinndi/adguard-filter-list-srs/releases/download/408/adguard-filter-list.srs",
-      "tag": "408",
-      "source": "jinndi/adguard-filter-list-srs",
-      "source_name": "jinndi (adguard-filter)",
       "default_on": false
     }
   ],
@@ -700,7 +689,7 @@
       "default_on": false
     },
     {
-      "id": "svc_jinndi_adguard-filter-list",
+      "id": "jinndi:adguard-filter-list",
       "kind": "domains",
       "name_ru": "AdGuard фильтр",
       "file": "jinndi/domains/adguard-filter-list.srs.lst",
@@ -709,10 +698,7 @@
       "tag": "408",
       "source": "jinndi/adguard-filter-list-srs",
       "source_name": "jinndi (adguard-filter)",
-      "default_on": false,
-      "same_as_ip": [
-        "jinndi:adguard-filter-list"
-      ]
+      "default_on": false
     }
   ]
 }
