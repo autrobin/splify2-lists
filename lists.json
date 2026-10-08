@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-07_10-25",
-  "generated_at": "2026-10-07T10:25:11Z",
+  "version": "2026-10-08_10-45",
+  "generated_at": "2026-10-08T10:45:45Z",
   "base_url": "https://raw.githubusercontent.com/autrobin/splify2-lists/main/lists",
   "categories": [
     {
@@ -694,8 +694,8 @@
       "name_ru": "AdGuard фильтр",
       "file": "jinndi/domains/adguard-filter-list.srs.lst",
       "format": "srs",
-      "url": "https://github.com/jinndi/adguard-filter-list-srs/releases/download/415/adguard-filter-list.srs",
-      "tag": "415",
+      "url": "https://github.com/jinndi/adguard-filter-list-srs/releases/download/416/adguard-filter-list.srs",
+      "tag": "416",
       "source": "jinndi/adguard-filter-list-srs",
       "source_name": "jinndi (adguard-filter)",
       "default_on": false
